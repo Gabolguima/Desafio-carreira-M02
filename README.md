@@ -1,8 +1,9 @@
 # Desafio de Carreira Módulo-02
 
+## Desenhando na tela 👨‍🎨🎨
 O projeto que irei apresentar é bem simples. Basta baixá-lo, extrair e executar no seu navegador(browser)!
 
-## Passo a Passo:
+### Passo a Passo:
 
 1. Faça o download do arquivo. ![baixando](https://github.com/Gabolguima/Desafio-carreira-M02/assets/112644455/22dc6ac2-b61c-47c6-a352-8bb5cdeb178b)
 
